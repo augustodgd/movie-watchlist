@@ -1,0 +1,11 @@
+.movie-list {
+  list-style: none;
+}
+
+.movie-poster {
+  object-fit: contain;
+}
+
+.movie-content {
+  display: flex;
+}
